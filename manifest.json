@@ -1,0 +1,18 @@
+{
+  "access_provider_type": "cdnfly",
+  "binary": "cdnfly.exe",
+  "capability": "deploy",
+  "category": "cdn",
+  "display_name_key": "plugin.cdnfly.name",
+  "icon": "cdnfly.svg",
+  "max_core_version": "",
+  "min_core_version": "",
+  "priority": 100,
+  "protocol_version": 4,
+  "provider_type": "cdnfly",
+  "sha256": "",
+  "usages": [
+    "hosting"
+  ],
+  "version": "0.2.2"
+}
